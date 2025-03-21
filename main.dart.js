@@ -89960,7 +89960,7 @@ s=A.a([a.a],t.t)
 r=q.z
 r.c=s
 r.a=1
-if(r.d.length>=3)q.y.Af(0)}else if(q===!1){q=A.hR(this.b,!1,t.vZ)
+if(r.d.length>=2)q.y.Af(0)}else if(q===!1){q=A.hR(this.b,!1,t.vZ)
 s=A.a([a.a],t.t)
 r=q.z
 r.c=s
@@ -90483,7 +90483,7 @@ A.ap0.prototype={
 $0(){var s=A.hR(this.a,!1,t.Ae),r=this.b.a.a,q=s.z
 q.d=r
 q.a=1
-if(r.length>=3)s.y.Af(0)},
+if(r.length>=2)s.y.Af(0)},
 $S:0}
 A.ap_.prototype={
 $2(a,b){var s=this,r=null,q=s.a
